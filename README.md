@@ -5,7 +5,7 @@ This project is a visually appealing food blog website designed to showcase a va
 
 This is a simple food blog website project built with HTML, CSS, and JavaScript. The project showcases various food items, images, and a signup page. It is designed as a static website and can be used as a template for food-related blogs or portfolios.
 
-Live Link : https://ashishrastogi123.github.io/Food-Blog-webside-frontend-webside/
+Live Link : https://ashishrastogi123.github.io/Swadistha-A-Food-Blog-webside/
 
 ## Features
 - Home page with food images and descriptions
@@ -32,6 +32,7 @@ src/                 # Image assets
 
 ## Screenshots
 ![Homepage Screenshot](src/food1.jpg)
+
 
 
 
